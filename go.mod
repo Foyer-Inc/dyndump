@@ -1,4 +1,4 @@
-module github.com/gwatts/dyndump
+module github.com/Foyer-Inc/dyndump
 
 go 1.12
 

@@ -16,7 +16,7 @@ import (
 	"github.com/aws/aws-sdk-go/aws/session"
 	"github.com/aws/aws-sdk-go/service/dynamodb"
 	"github.com/aws/aws-sdk-go/service/s3"
-	"github.com/gwatts/dyndump/dyndump"
+	"github.com/Foyer-Inc/dyndump/dyndump"
 	"gopkg.in/cheggaaa/pb.v1"
 )
 

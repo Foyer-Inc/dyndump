@@ -1,6 +1,6 @@
 # AWS DynamoDB Table Dump and Restore
 
-[![Build Status](https://travis-ci.org/gwatts/dyndump.svg?branch=master)](https://travis-ci.org/gwatts/dyndump)
+[![Build Status](https://travis-ci.org/Foyer-Inc/dyndump.svg?branch=master)](https://travis-ci.org/Foyer-Inc/dyndump)
 
 
 This utility performs a full scan of an AWS DynamoDB table and outputs each
@@ -15,12 +15,12 @@ dump/load facilities.
 ## Download
 
 Binaries are available for Linux, Solaris, Windows and Mac for the
-[latest release](https://github.com/gwatts/dyndump/releases).
+[latest release](https://github.com/Foyer-Inc/dyndump/releases).
 
 ## Compile
 
 [Install Go](https://golang.org/doc/install) and run 
-`go get github.com/gwatts/dyndump`.
+`go get github.com/Foyer-Inc/dyndump`.
 
 ## Utility Usage
 
@@ -157,6 +157,6 @@ The following types are defined by the DynamoDB API:
 
 ## Library
 
-See the [godoc documentation](https://godoc.org/github.com/gwatts/dyndump/dyndump)
-for the github.com/gwatts/dyndump/dyndump library to integrate the library into
+See the [godoc documentation](https://godoc.org/github.com/Foyer-Inc/dyndump/dyndump)
+for the github.com/Foyer-Inc/dyndump/dyndump library to integrate the library into
 your own projects.
